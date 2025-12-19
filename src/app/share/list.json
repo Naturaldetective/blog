@@ -414,7 +414,7 @@
 	    "description": "知名的开源渗透测试靶机库，提供各种具有设计漏洞的虚拟机镜像。",
 	    "tags": ["CTF"],
 	    "stars": 3
-	}，
+	},
 	{
 		"name": "iLoveIMG",
 		"url": "https://www.iloveimg.com/zh-cn",
